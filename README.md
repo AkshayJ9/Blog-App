@@ -33,12 +33,12 @@ A simple, elegant, and fully frontend-powered Blog Application built using **Rea
 
 ### Homepage
 - ![Homepage](src/assets/UI_1.png)
-### Login/SignUp
-- ![Login/SignUp](src/assets/UI_3.png)
 ### Pagination
+- ![Login/SignUp](src/assets/UI_3.png)
+### Login/SignUp
 - ![Pagination](src/assets/UI_2.png)
 ### Create Post
-- ![Create Post](src/assets/UI_3.png)
+- ![Create Post](src/assets/UI_4.png)
 
 ---
 

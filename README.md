@@ -31,8 +31,10 @@ A simple, elegant, and fully frontend-powered Blog Application built using **Rea
 
 > Add your screenshots in the `assets/screenshots/` folder and link them below:
 
-- ![Homepage](/assets/screenshots/homepage.png)
-- ![Create Post](/assets/screenshots/create-post.png)
+- ![Homepage](/assets/UI_1.png)
+- ![Homepage](/assets/UI_2.png)
+- ![Login/SignUp](/assets/UI_3.png)
+- ![Create Post](/assets/UI_3.png)
 
 ---
 

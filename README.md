@@ -3,6 +3,9 @@
 A simple, elegant, and fully frontend-powered Blog Application built using **React.js**. This app allows users to create, view, and manage blog posts using localStorage — making it ideal for learning React fundamentals, state management, and routing, all without the need for a backend.
 
 ---
+## Live Demo
+Check out the live version of the app: [BlogsWithAJ](https://blogswithaj.netlify.app/)
+---
 
 ## 🚀 Features
 
@@ -42,6 +45,7 @@ A simple, elegant, and fully frontend-powered Blog Application built using **Rea
 
 ---
 
+
 ## 📦 Installation
 
 ```bash
@@ -49,3 +53,4 @@ git clone https://github.com/AkshayJ9/Blog-App.git
 cd Blog-App
 npm install
 npm start
+
